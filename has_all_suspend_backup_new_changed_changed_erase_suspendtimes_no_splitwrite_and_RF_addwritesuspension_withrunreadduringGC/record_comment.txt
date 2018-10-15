@@ -1,0 +1,2 @@
+哪些文件中有current_time然后看改动。
+ssd.c  flash.c  pagemap.c   initialize.h  

@@ -1,0 +1,136 @@
+
+
+
+
+
+contain      enter do   finieshed       enter do         contain
+
+241609136,   241606448, 1  241607024      241610416,      241615600,
+241608944,   241606640, 1                 241610608,      241615408,
+241608752,   241606832, 1  241607216      241610800,      241615216,
+241608560,   241607024, 1                  241609840,      241615024,
+241608368,   241607216, 1  241606304      241610032,      241614832,
+241608176,   241606304, 1                 241610224,      241614640,
+241607984,1   241607600,   241606448      241612720,     241614448,
+241607792,1   241607792,                  241612912,     241614256,
+241607600,1   241607984,   241606640      241613104,     241614064,
+241607408,1   241607408,                  241612144,     241613872,
+241607216,1                241606832      241612336,     241613680,
+241607024,1                               241612528,     241613488,
+241606832,1                               241615024,     241613296,
+241606640,1                               241615216,     241613104,
+241606448,1                               241615408,     241612912,
+241606304,1                               241614448,     241612720,
+                                         241614640,      241612528,
+                                         241614832,      241612336,
+                                                         241612144,
+                                                         241611952,
+                                                         241611760,
+                                                         241611568,
+                                                         241611376,
+                                                         241611184,
+                                                         241610992,
+                                                         241610800,
+                                                         241610608,
+                                                         241610416,
+                                                         241610224,
+                                                         241610032,
+                                                         241609840,
+                                                         241609648,
+                                                         241609456,
+
+
+
+
+
+ 219187632, 
+ 219187440, 
+ 219187248, 
+ 219187056, 
+ 219186864, 
+ 219186672, 
+ 219186480, 
+ 219186288, 
+ 219186096, 
+ 219185904, 
+ 219185712, 1
+ 219185520, 1
+ 219185328, 1
+ 219185136, 1
+ 219184944, 1
+ 219184800, 1
+
+
+
+sub status sub 234305968,  channle: 5, chip: 0, die 1, plane 1, lpn: 8752859, ppn: 10878981  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234305776,  channle: 4, chip: 0, die 1, plane 1, lpn: 8752858, ppn: 8781829  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234305584,  channle: 3, chip: 0, die 1, plane 1, lpn: 8752857, ppn: 6684677  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234305392,  channle: 2, chip: 0, die 1, plane 1, lpn: 8752856, ppn: 4587525  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234305200,  channle: 1, chip: 0, die 1, plane 1, lpn: 8752855, ppn: 2490373  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234305008,  channle: 0, chip: 0, die 1, plane 1, lpn: 8752854, ppn: 393221  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234304816,  channle: 5, chip: 0, die 1, plane 0, lpn: 8752853, ppn: 10747909  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804310701243, next_state: 203, next_state_predict_time: 1804310721243, state(only for write): 15
+sub status sub 234304624,  channle: 4, chip: 0, die 1, plane 0, lpn: 8752852, ppn: 8650757  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804310701243, next_state: 203, next_state_predict_time: 1804310721243, state(only for write): 15
+sub status sub 234304432,  channle: 3, chip: 0, die 1, plane 0, lpn: 8752851, ppn: 6553605  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804310701243, next_state: 203, next_state_predict_time: 1804310721243, state(only for write): 15
+sub status sub 234304240,  channle: 2, chip: 0, die 1, plane 0, lpn: 8752850, ppn: 4456453  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804310701243, next_state: 203, next_state_predict_time: 1804310721243, state(only for write): 15
+sub status sub 234304048,  channle: 1, chip: 0, die 1, plane 0, lpn: 8752849, ppn: 2359301  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804310721068, next_state: 299, next_state_predict_time: 1804310772268, state(only for write): 15
+sub status sub 234303856,  channle: 0, chip: 0, die 1, plane 0, lpn: 8752848, ppn: 262149  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804310721068, next_state: 299, next_state_predict_time: 1804310772268, state(only for write): 15
+sub status sub 234303664,  channle: 5, chip: 3, die 0, plane 1, lpn: 8752847, ppn: 12189701  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804310721068, next_state: 299, next_state_predict_time: 1804310772268, state(only for write): 15
+sub status sub 234303472,  channle: 4, chip: 3, die 0, plane 1, lpn: 8752846, ppn: 10092549  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804310721068, next_state: 299, next_state_predict_time: 1804310772268, state(only for write): 15
+sub status sub 234303280,  channle: 3, chip: 3, die 0, plane 1, lpn: 8752845, ppn: 7995397  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804310721068, next_state: 299, next_state_predict_time: 1804310772268, state(only for write): 15
+sub status sub 234303136,  channle: 2, chip: 3, die 0, plane 1, lpn: 8752844, ppn: 5898245  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804310721068, next_state: 299, next_state_predict_time: 1804310772268, state(only for write): 15
+ssd request_queue , lsn : 8488171, size : 128, operation :1   ***1read,0write,complete_lsn_count :0, distri_flag :0, begin_time :1804314954996
+sub status sub 234312432,  channle: 0, chip: 3, die 1, plane 1, lpn: 2122074, ppn: 1966085  operation: 1,size: 3,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234312240,  channle: 5, chip: 3, die 1, plane 0, lpn: 2122073, ppn: 12320773  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804315180321, next_state: 299, next_state_predict_time: 1804315231521, state(only for write): 15
+sub status sub 234312048,  channle: 4, chip: 3, die 1, plane 0, lpn: 2122072, ppn: 10223621  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804315180321, next_state: 299, next_state_predict_time: 1804315231521, state(only for write): 15
+sub status sub 234311856,  channle: 3, chip: 3, die 1, plane 0, lpn: 2122071, ppn: 8126469  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804314955521, next_state: 203, next_state_predict_time: 1804314975521, state(only for write): 15
+sub status sub 234311664,  channle: 2, chip: 3, die 1, plane 0, lpn: 2122070, ppn: 6029317  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804314955521, next_state: 203, next_state_predict_time: 1804314975521, state(only for write): 15
+sub status sub 234311472,  channle: 1, chip: 3, die 1, plane 0, lpn: 2122069, ppn: 3932165  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804314955521, next_state: 203, next_state_predict_time: 1804314975521, state(only for write): 15
+sub status sub 234311280,  channle: 0, chip: 3, die 1, plane 0, lpn: 2122068, ppn: 1835013  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804314955521, next_state: 203, next_state_predict_time: 1804314975521, state(only for write): 15
+sub status sub 234311088,  channle: 5, chip: 2, die 1, plane 1, lpn: 2122067, ppn: 11927557  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804315129121, next_state: 299, next_state_predict_time: 1804315180321, state(only for write): 15
+sub status sub 234310896,  channle: 4, chip: 2, die 1, plane 1, lpn: 2122066, ppn: 9830405  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804315129121, next_state: 299, next_state_predict_time: 1804315180321, state(only for write): 15
+sub status sub 234310704,  channle: 3, chip: 2, die 1, plane 1, lpn: 2122065, ppn: 7733253  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234310512,  channle: 2, chip: 2, die 1, plane 1, lpn: 2122064, ppn: 5636101  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234310320,  channle: 1, chip: 2, die 1, plane 1, lpn: 2122063, ppn: 3538949  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234310128,  channle: 0, chip: 2, die 1, plane 1, lpn: 2122062, ppn: 1441797  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234309936,  channle: 5, chip: 2, die 1, plane 0, lpn: 2122061, ppn: 11796485  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804315026546, next_state: 299, next_state_predict_time: 1804315077746, state(only for write): 15
+sub status sub 234309744,  channle: 4, chip: 2, die 1, plane 0, lpn: 2122060, ppn: 9699333  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804315026546, next_state: 299, next_state_predict_time: 1804315077746, state(only for write): 15
+sub status sub 234309552,  channle: 3, chip: 2, die 1, plane 0, lpn: 2122059, ppn: 7602181  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804314955346, next_state: 203, next_state_predict_time: 1804314975346, state(only for write): 15
+sub status sub 234309360,  channle: 2, chip: 2, die 1, plane 0, lpn: 2122058, ppn: 5505029  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804314955346, next_state: 203, next_state_predict_time: 1804314975346, state(only for write): 15
+sub status sub 234309168,  channle: 1, chip: 2, die 1, plane 0, lpn: 2122057, ppn: 3407877  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804314955346, next_state: 203, next_state_predict_time: 1804314975346, state(only for write): 15
+sub status sub 234308976,  channle: 0, chip: 2, die 1, plane 0, lpn: 2122056, ppn: 1310725  operation: 1,size: 4,   ////sub_request status:: current_state: 202, current_time: 1804314955346, next_state: 203, next_state_predict_time: 1804314975346, state(only for write): 15
+sub status sub 234308784,  channle: 5, chip: 1, die 1, plane 1, lpn: 2122055, ppn: 11403269  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804315077921, next_state: 299, next_state_predict_time: 1804315129121, state(only for write): 15
+sub status sub 234308592,  channle: 4, chip: 1, die 1, plane 1, lpn: 2122054, ppn: 9306117  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804315077921, next_state: 299, next_state_predict_time: 1804315129121, state(only for write): 15
+sub status sub 234308400,  channle: 3, chip: 1, die 1, plane 1, lpn: 2122053, ppn: 7208965  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234308208,  channle: 2, chip: 1, die 1, plane 1, lpn: 2122052, ppn: 5111813  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234308016,  channle: 1, chip: 1, die 1, plane 1, lpn: 2122051, ppn: 3014661  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234307824,  channle: 0, chip: 1, die 1, plane 1, lpn: 2122050, ppn: 917509  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234307632,  channle: 5, chip: 1, die 1, plane 0, lpn: 2122049, ppn: 11272197  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804314975171, next_state: 299, next_state_predict_time: 1804315026371, state(only for write): 15
+sub status sub 234307440,  channle: 4, chip: 1, die 1, plane 0, lpn: 2122048, ppn: 9175045  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804314975171, next_state: 299, next_state_predict_time: 1804315026371, state(only for write): 15
+sub status sub 234307248,  channle: 3, chip: 1, die 1, plane 0, lpn: 2122047, ppn: 7077893  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804314975171, next_state: 299, next_state_predict_time: 1804315026371, state(only for write): 15
+sub status sub 234307056,  channle: 2, chip: 1, die 1, plane 0, lpn: 2122046, ppn: 4980741  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804314975171, next_state: 299, next_state_predict_time: 1804315026371, state(only for write): 15
+sub status sub 234306864,  channle: 1, chip: 1, die 1, plane 0, lpn: 2122045, ppn: 2883589  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804314975171, next_state: 299, next_state_predict_time: 1804315026371, state(only for write): 15
+sub status sub 234306672,  channle: 0, chip: 1, die 1, plane 0, lpn: 2122044, ppn: 786437  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804314975171, next_state: 299, next_state_predict_time: 1804315026371, state(only for write): 15
+sub status sub 234306480,  channle: 5, chip: 0, die 1, plane 1, lpn: 2122043, ppn: 10878982  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234306288,  channle: 4, chip: 0, die 1, plane 1, lpn: 2122042, ppn: 8781830  operation: 1,size: 1,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 8
+ssd request_queue , lsn : 13646543, size : 8, operation :1   ***1read,0write,complete_lsn_count :0, distri_flag :0, begin_time :1804318698883
+sub status sub 234313712,  channle: 1, chip: 3, die 1, plane 0, lpn: 3411637, ppn: 3932166  operation: 1,size: 3,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 7
+sub status sub 234313520,  channle: 0, chip: 3, die 1, plane 0, lpn: 3411636, ppn: 1835014  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234313328,  channle: 5, chip: 2, die 1, plane 1, lpn: 3411635, ppn: 11927558  operation: 1,size: 1,   ////sub_request status:: current_state: 203, current_time: 1804318719058, next_state: 299, next_state_predict_time: 1804318731858, state(only for write): 8
+ssd request_queue , lsn : 2984256, size : 64, operation :1   ***1read,0write,complete_lsn_count :0, distri_flag :0, begin_time :1804321213961
+sub status sub 234316912,  channle: 3, chip: 1, die 1, plane 0, lpn: 746079, ppn: 7077894  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804321234136, next_state: 299, next_state_predict_time: 1804321285336, state(only for write): 15
+sub status sub 234316720,  channle: 2, chip: 1, die 1, plane 0, lpn: 746078, ppn: 4980742  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804321234136, next_state: 299, next_state_predict_time: 1804321285336, state(only for write): 15
+sub status sub 234316528,  channle: 1, chip: 1, die 1, plane 0, lpn: 746077, ppn: 2883590  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804321285511, next_state: 299, next_state_predict_time: 1804321336711, state(only for write): 15
+sub status sub 234316336,  channle: 0, chip: 1, die 1, plane 0, lpn: 746076, ppn: 786438  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804321285511, next_state: 299, next_state_predict_time: 1804321336711, state(only for write): 15
+sub status sub 234316144,  channle: 5, chip: 0, die 1, plane 1, lpn: 746075, ppn: 10878983  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234315952,  channle: 4, chip: 0, die 1, plane 1, lpn: 746074, ppn: 8781831  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234315760,  channle: 3, chip: 0, die 1, plane 1, lpn: 746073, ppn: 6684678  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234315568,  channle: 2, chip: 0, die 1, plane 1, lpn: 746072, ppn: 4587526  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234315376,  channle: 1, chip: 0, die 1, plane 1, lpn: 746071, ppn: 2490374  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804321336711, next_state: 299, next_state_predict_time: 1804321387911, state(only for write): 15
+sub status sub 234315184,  channle: 0, chip: 0, die 1, plane 1, lpn: 746070, ppn: 393222  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804321336711, next_state: 299, next_state_predict_time: 1804321387911, state(only for write): 15
+sub status sub 234314992,  channle: 5, chip: 0, die 1, plane 0, lpn: 746069, ppn: 10747910  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234314800,  channle: 4, chip: 0, die 1, plane 0, lpn: 746068, ppn: 8650758  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234314608,  channle: 3, chip: 0, die 1, plane 0, lpn: 746067, ppn: 6553606  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234314416,  channle: 2, chip: 0, die 1, plane 0, lpn: 746066, ppn: 4456454  operation: 1,size: 4,   ////sub_request status:: current_state: 200, current_time: 9223372036854775807, next_state: 201, next_state_predict_time: 9223372036854775807, state(only for write): 15
+sub status sub 234314224,  channle: 1, chip: 0, die 1, plane 0, lpn: 746065, ppn: 2359302  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804321234136, next_state: 299, next_state_predict_time: 1804321285336, state(only for write): 15
+sub status sub 234314032,  channle: 0, chip: 0, die 1, plane 0, lpn: 746064, ppn: 262150  operation: 1,size: 4,   ////sub_request status:: current_state: 203, current_time: 1804321234136, next_state: 299, next_state_predict_time: 1804321285336, state(only for write): 15
+

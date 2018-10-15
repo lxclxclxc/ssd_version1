@@ -1,0 +1,705 @@
+
+input trace file name:don't match	 tPROG_w_cycle
+page_num is 12582912
+
+
+
+initiation is completed!
+
+begin pre_process_page.................
+
+pre_process is complete!
+0,0,0,0:  116943
+0,0,0,1:  116948
+0,0,1,0:  116972
+0,0,1,1:  116971
+1,0,0,0:  116965
+1,0,0,1:  116932
+1,0,1,0:  117013
+1,0,1,1:  116998
+2,0,0,0:  116923
+2,0,0,1:  116934
+2,0,1,0:  116986
+2,0,1,1:  116981
+3,0,0,0:  116979
+3,0,0,1:  116938
+3,0,1,0:  117022
+3,0,1,1:  116998
+4,0,0,0:  116969
+4,0,0,1:  116909
+4,0,1,0:  116965
+4,0,1,1:  117013
+5,0,0,0:  116995
+5,0,0,1:  116957
+5,0,1,0:  116976
+5,0,1,1:  117018
+
+begin simulating.......................
+
+
+   ^o^    OK, please wait a moment, and enjoy music and coffee   ^o^    
+we want every sub can be polled if no sub can be serviced, now sub is 215699248
+channel 3, chip 1, now is IDLE, sub judgement is 215699248
+sub 215699248, sub's channel 3, chip 3, is not serviced in channel 3, chip 1, so change chip or change sub??, we choose cherish the 
+channel 3, chip 2, now is IDLE, sub judgement is 215699248
+sub 215699248, sub's channel 3, chip 3, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+channel 3, chip 3, now is IDLE, sub judgement is 215699248
+now, here will do execute new read subrequest, then over the chip loop here.is 215699248, channel 3, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 3, chip 3, die 0, plane 1, ppn 7995397, sub->current_time 1804310700893, sub->next_time 1804310701068, ssd->current_time 1804310700893, ssd->current_state 201, ssd->next_state 202, chip 3  next_predict_time 1804310701068, sub->ppn = ssd.add_reg_ppn is 7995397  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699440
+channel 4, chip 1, now is IDLE, sub judgement is 215699440
+sub 215699440, sub's channel 4, chip 3, is not serviced in channel 4, chip 1, so change chip or change sub??, we choose cherish the 
+channel 4, chip 2, now is IDLE, sub judgement is 215699440
+sub 215699440, sub's channel 4, chip 3, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+channel 4, chip 3, now is IDLE, sub judgement is 215699440
+now, here will do execute new read subrequest, then over the chip loop here.is 215699440, channel 4, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 4, chip 3, die 0, plane 1, ppn 10092549, sub->current_time 1804310700893, sub->next_time 1804310701068, ssd->current_time 1804310700893, ssd->current_state 201, ssd->next_state 202, chip 3  next_predict_time 1804310701068, sub->ppn = ssd.add_reg_ppn is 10092549  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699632
+channel 5, chip 1, now is IDLE, sub judgement is 215699632
+sub 215699632, sub's channel 5, chip 3, is not serviced in channel 5, chip 1, so change chip or change sub??, we choose cherish the 
+channel 5, chip 2, now is IDLE, sub judgement is 215699632
+sub 215699632, sub's channel 5, chip 3, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+channel 5, chip 3, now is IDLE, sub judgement is 215699632
+now, here will do execute new read subrequest, then over the chip loop here.is 215699632, channel 5, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 5, chip 3, die 0, plane 1, ppn 12189701, sub->current_time 1804310700893, sub->next_time 1804310701068, ssd->current_time 1804310700893, ssd->current_state 201, ssd->next_state 202, chip 3  next_predict_time 1804310701068, sub->ppn = ssd.add_reg_ppn is 12189701  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699824
+channel 0, chip 1, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 1, so change chip or change sub??, we choose cherish the 
+channel 0, chip 2, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 2, so change chip or change sub??, we choose cherish the 
+channel 0, chip 3, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+channel 0, chip 0, now is IDLE, sub judgement is 215699824
+now, here will do execute new read subrequest, then over the chip loop here.is 215699824, channel 0, chip 0 , chip token is 0
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 0, chip 0, die 1, plane 0, ppn 262149, sub->current_time 1804310700893, sub->next_time 1804310701068, ssd->current_time 1804310700893, ssd->current_state 201, ssd->next_state 202, chip 0  next_predict_time 1804310701068, sub->ppn = ssd.add_reg_ppn is 262149  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215700016
+channel 1, chip 1, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 1, so change chip or change sub??, we choose cherish the 
+channel 1, chip 2, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 2, so change chip or change sub??, we choose cherish the 
+channel 1, chip 3, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+channel 1, chip 0, now is IDLE, sub judgement is 215700016
+now, here will do execute new read subrequest, then over the chip loop here.is 215700016, channel 1, chip 0 , chip token is 0
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 1, chip 0, die 1, plane 0, ppn 2359301, sub->current_time 1804310700893, sub->next_time 1804310701068, ssd->current_time 1804310700893, ssd->current_state 201, ssd->next_state 202, chip 0  next_predict_time 1804310701068, sub->ppn = ssd.add_reg_ppn is 2359301  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699104
+channel 2, chip 1, now is IDLE, sub judgement is 215699104
+sub 215699104, sub's channel 2, chip 3, is not serviced in channel 2, chip 1, so change chip or change sub??, we choose cherish the 
+channel 2, chip 2, now is IDLE, sub judgement is 215699104
+sub 215699104, sub's channel 2, chip 3, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+channel 2, chip 3, now is IDLE, sub judgement is 215699104
+now, here will do execute new read subrequest, then over the chip loop here.is 215699104, channel 2, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 2, chip 3, die 0, plane 1, ppn 5898245, sub->current_time 1804310700893, sub->next_time 1804310701068, ssd->current_time 1804310700893, ssd->current_state 201, ssd->next_state 202, chip 3  next_predict_time 1804310701068, sub->ppn = ssd.add_reg_ppn is 5898245  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699248
+channel 3, chip 0, now is IDLE, sub judgement is 215699248
+sub 215699248, sub's channel 3, chip 3, is not serviced in channel 3, chip 0, so change chip or change sub??, we choose cherish the 
+channel 3, chip 1, now is IDLE, sub judgement is 215699248
+sub 215699248, sub's channel 3, chip 3, is not serviced in channel 3, chip 1, so change chip or change sub??, we choose cherish the 
+channel 3, chip 2, now is IDLE, sub judgement is 215699248
+sub 215699248, sub's channel 3, chip 3, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700400
+channel 3, chip 0, now is IDLE, sub judgement is 215700400
+now, here will do execute new read subrequest, then over the chip loop here.is 215700400, channel 3, chip 0 , chip token is 0
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 3, chip 0, die 1, plane 0, ppn 6553605, sub->current_time 1804310701068, sub->next_time 1804310701243, ssd->current_time 1804310701068, ssd->current_state 201, ssd->next_state 202, chip 0  next_predict_time 1804310701243, sub->ppn = ssd.add_reg_ppn is 6553605  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699440
+channel 4, chip 0, now is IDLE, sub judgement is 215699440
+sub 215699440, sub's channel 4, chip 3, is not serviced in channel 4, chip 0, so change chip or change sub??, we choose cherish the 
+channel 4, chip 1, now is IDLE, sub judgement is 215699440
+sub 215699440, sub's channel 4, chip 3, is not serviced in channel 4, chip 1, so change chip or change sub??, we choose cherish the 
+channel 4, chip 2, now is IDLE, sub judgement is 215699440
+sub 215699440, sub's channel 4, chip 3, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700592
+channel 4, chip 0, now is IDLE, sub judgement is 215700592
+now, here will do execute new read subrequest, then over the chip loop here.is 215700592, channel 4, chip 0 , chip token is 0
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 4, chip 0, die 1, plane 0, ppn 8650757, sub->current_time 1804310701068, sub->next_time 1804310701243, ssd->current_time 1804310701068, ssd->current_state 201, ssd->next_state 202, chip 0  next_predict_time 1804310701243, sub->ppn = ssd.add_reg_ppn is 8650757  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699632
+channel 5, chip 0, now is IDLE, sub judgement is 215699632
+sub 215699632, sub's channel 5, chip 3, is not serviced in channel 5, chip 0, so change chip or change sub??, we choose cherish the 
+channel 5, chip 1, now is IDLE, sub judgement is 215699632
+sub 215699632, sub's channel 5, chip 3, is not serviced in channel 5, chip 1, so change chip or change sub??, we choose cherish the 
+channel 5, chip 2, now is IDLE, sub judgement is 215699632
+sub 215699632, sub's channel 5, chip 3, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700784
+channel 5, chip 0, now is IDLE, sub judgement is 215700784
+now, here will do execute new read subrequest, then over the chip loop here.is 215700784, channel 5, chip 0 , chip token is 0
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 5, chip 0, die 1, plane 0, ppn 10747909, sub->current_time 1804310701068, sub->next_time 1804310701243, ssd->current_time 1804310701068, ssd->current_state 201, ssd->next_state 202, chip 0  next_predict_time 1804310701243, sub->ppn = ssd.add_reg_ppn is 10747909  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699824
+channel 0, chip 1, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 1, so change chip or change sub??, we choose cherish the 
+channel 0, chip 2, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 2, so change chip or change sub??, we choose cherish the 
+channel 0, chip 3, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700976
+channel 0, chip 1, now is IDLE, sub judgement is 215700976
+sub 215700976, sub's channel 0, chip 0, is not serviced in channel 0, chip 1, so change chip or change sub??, we choose cherish the 
+channel 0, chip 2, now is IDLE, sub judgement is 215700976
+sub 215700976, sub's channel 0, chip 0, is not serviced in channel 0, chip 2, so change chip or change sub??, we choose cherish the 
+channel 0, chip 3, now is IDLE, sub judgement is 215700976
+sub 215700976, sub's channel 0, chip 0, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215700016
+channel 1, chip 1, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 1, so change chip or change sub??, we choose cherish the 
+channel 1, chip 2, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 2, so change chip or change sub??, we choose cherish the 
+channel 1, chip 3, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701168
+channel 1, chip 1, now is IDLE, sub judgement is 215701168
+sub 215701168, sub's channel 1, chip 0, is not serviced in channel 1, chip 1, so change chip or change sub??, we choose cherish the 
+channel 1, chip 2, now is IDLE, sub judgement is 215701168
+sub 215701168, sub's channel 1, chip 0, is not serviced in channel 1, chip 2, so change chip or change sub??, we choose cherish the 
+channel 1, chip 3, now is IDLE, sub judgement is 215701168
+sub 215701168, sub's channel 1, chip 0, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699104
+channel 2, chip 0, now is IDLE, sub judgement is 215699104
+sub 215699104, sub's channel 2, chip 3, is not serviced in channel 2, chip 0, so change chip or change sub??, we choose cherish the 
+channel 2, chip 1, now is IDLE, sub judgement is 215699104
+sub 215699104, sub's channel 2, chip 3, is not serviced in channel 2, chip 1, so change chip or change sub??, we choose cherish the 
+channel 2, chip 2, now is IDLE, sub judgement is 215699104
+sub 215699104, sub's channel 2, chip 3, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700208
+channel 2, chip 0, now is IDLE, sub judgement is 215700208
+now, here will do execute new read subrequest, then over the chip loop here.is 215700208, channel 2, chip 0 , chip token is 0
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 2, chip 0, die 1, plane 0, ppn 4456453, sub->current_time 1804310701068, sub->next_time 1804310701243, ssd->current_time 1804310701068, ssd->current_state 201, ssd->next_state 202, chip 0  next_predict_time 1804310701243, sub->ppn = ssd.add_reg_ppn is 4456453  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699248
+channel 3, chip 1, now is IDLE, sub judgement is 215699248
+sub 215699248, sub's channel 3, chip 3, is not serviced in channel 3, chip 1, so change chip or change sub??, we choose cherish the 
+channel 3, chip 2, now is IDLE, sub judgement is 215699248
+sub 215699248, sub's channel 3, chip 3, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700400
+channel 3, chip 1, now is IDLE, sub judgement is 215700400
+sub 215700400, sub's channel 3, chip 0, is not serviced in channel 3, chip 1, so change chip or change sub??, we choose cherish the 
+channel 3, chip 2, now is IDLE, sub judgement is 215700400
+sub 215700400, sub's channel 3, chip 0, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701552
+channel 3, chip 1, now is IDLE, sub judgement is 215701552
+sub 215701552, sub's channel 3, chip 0, is not serviced in channel 3, chip 1, so change chip or change sub??, we choose cherish the 
+channel 3, chip 2, now is IDLE, sub judgement is 215701552
+sub 215701552, sub's channel 3, chip 0, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699440
+channel 4, chip 1, now is IDLE, sub judgement is 215699440
+sub 215699440, sub's channel 4, chip 3, is not serviced in channel 4, chip 1, so change chip or change sub??, we choose cherish the 
+channel 4, chip 2, now is IDLE, sub judgement is 215699440
+sub 215699440, sub's channel 4, chip 3, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700592
+channel 4, chip 1, now is IDLE, sub judgement is 215700592
+sub 215700592, sub's channel 4, chip 0, is not serviced in channel 4, chip 1, so change chip or change sub??, we choose cherish the 
+channel 4, chip 2, now is IDLE, sub judgement is 215700592
+sub 215700592, sub's channel 4, chip 0, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701744
+channel 4, chip 1, now is IDLE, sub judgement is 215701744
+sub 215701744, sub's channel 4, chip 0, is not serviced in channel 4, chip 1, so change chip or change sub??, we choose cherish the 
+channel 4, chip 2, now is IDLE, sub judgement is 215701744
+sub 215701744, sub's channel 4, chip 0, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699632
+channel 5, chip 1, now is IDLE, sub judgement is 215699632
+sub 215699632, sub's channel 5, chip 3, is not serviced in channel 5, chip 1, so change chip or change sub??, we choose cherish the 
+channel 5, chip 2, now is IDLE, sub judgement is 215699632
+sub 215699632, sub's channel 5, chip 3, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700784
+channel 5, chip 1, now is IDLE, sub judgement is 215700784
+sub 215700784, sub's channel 5, chip 0, is not serviced in channel 5, chip 1, so change chip or change sub??, we choose cherish the 
+channel 5, chip 2, now is IDLE, sub judgement is 215700784
+sub 215700784, sub's channel 5, chip 0, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701936
+channel 5, chip 1, now is IDLE, sub judgement is 215701936
+sub 215701936, sub's channel 5, chip 0, is not serviced in channel 5, chip 1, so change chip or change sub??, we choose cherish the 
+channel 5, chip 2, now is IDLE, sub judgement is 215701936
+sub 215701936, sub's channel 5, chip 0, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699824
+channel 0, chip 1, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 1, so change chip or change sub??, we choose cherish the 
+channel 0, chip 2, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 2, so change chip or change sub??, we choose cherish the 
+channel 0, chip 3, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700976
+channel 0, chip 1, now is IDLE, sub judgement is 215700976
+sub 215700976, sub's channel 0, chip 0, is not serviced in channel 0, chip 1, so change chip or change sub??, we choose cherish the 
+channel 0, chip 2, now is IDLE, sub judgement is 215700976
+sub 215700976, sub's channel 0, chip 0, is not serviced in channel 0, chip 2, so change chip or change sub??, we choose cherish the 
+channel 0, chip 3, now is IDLE, sub judgement is 215700976
+sub 215700976, sub's channel 0, chip 0, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215700016
+channel 1, chip 1, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 1, so change chip or change sub??, we choose cherish the 
+channel 1, chip 2, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 2, so change chip or change sub??, we choose cherish the 
+channel 1, chip 3, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701168
+channel 1, chip 1, now is IDLE, sub judgement is 215701168
+sub 215701168, sub's channel 1, chip 0, is not serviced in channel 1, chip 1, so change chip or change sub??, we choose cherish the 
+channel 1, chip 2, now is IDLE, sub judgement is 215701168
+sub 215701168, sub's channel 1, chip 0, is not serviced in channel 1, chip 2, so change chip or change sub??, we choose cherish the 
+channel 1, chip 3, now is IDLE, sub judgement is 215701168
+sub 215701168, sub's channel 1, chip 0, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699104
+channel 2, chip 1, now is IDLE, sub judgement is 215699104
+sub 215699104, sub's channel 2, chip 3, is not serviced in channel 2, chip 1, so change chip or change sub??, we choose cherish the 
+channel 2, chip 2, now is IDLE, sub judgement is 215699104
+sub 215699104, sub's channel 2, chip 3, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700208
+channel 2, chip 1, now is IDLE, sub judgement is 215700208
+sub 215700208, sub's channel 2, chip 0, is not serviced in channel 2, chip 1, so change chip or change sub??, we choose cherish the 
+channel 2, chip 2, now is IDLE, sub judgement is 215700208
+sub 215700208, sub's channel 2, chip 0, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701360
+channel 2, chip 1, now is IDLE, sub judgement is 215701360
+sub 215701360, sub's channel 2, chip 0, is not serviced in channel 2, chip 1, so change chip or change sub??, we choose cherish the 
+channel 2, chip 2, now is IDLE, sub judgement is 215701360
+sub 215701360, sub's channel 2, chip 0, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215699248
+channel 3, chip 1, now is IDLE, sub judgement is 215699248
+sub 215699248, sub's channel 3, chip 3, is not serviced in channel 3, chip 1, so change chip or change sub??, we choose cherish the 
+channel 3, chip 2, now is IDLE, sub judgement is 215699248
+sub 215699248, sub's channel 3, chip 3, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700400
+channel 3, chip 1, now is IDLE, sub judgement is 215700400
+sub 215700400, sub's channel 3, chip 0, is not serviced in channel 3, chip 1, so change chip or change sub??, we choose cherish the 
+channel 3, chip 2, now is IDLE, sub judgement is 215700400
+sub 215700400, sub's channel 3, chip 0, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701552
+channel 3, chip 1, now is IDLE, sub judgement is 215701552
+sub 215701552, sub's channel 3, chip 0, is not serviced in channel 3, chip 1, so change chip or change sub??, we choose cherish the 
+channel 3, chip 2, now is IDLE, sub judgement is 215701552
+sub 215701552, sub's channel 3, chip 0, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want to find existing read sub from channel 3, chip 3, die 0, now the existing register_ppn is -1, if ppn is -1, that means no useful
+we want to find existing read sub from channel 3, chip 3, die 0, now the existing register_ppn is 7995397, if ppn is -1, that means no useful
+SERVICES_2_r_data_trans, sub from find_read_sub_request,sub information: channel 3, chip 3, die 0, plane 1, ppn 7995397
+we want every sub can be polled if no sub can be serviced, now sub is 215699440
+channel 4, chip 1, now is IDLE, sub judgement is 215699440
+sub 215699440, sub's channel 4, chip 3, is not serviced in channel 4, chip 1, so change chip or change sub??, we choose cherish the 
+channel 4, chip 2, now is IDLE, sub judgement is 215699440
+sub 215699440, sub's channel 4, chip 3, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700592
+channel 4, chip 1, now is IDLE, sub judgement is 215700592
+sub 215700592, sub's channel 4, chip 0, is not serviced in channel 4, chip 1, so change chip or change sub??, we choose cherish the 
+channel 4, chip 2, now is IDLE, sub judgement is 215700592
+sub 215700592, sub's channel 4, chip 0, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701744
+channel 4, chip 1, now is IDLE, sub judgement is 215701744
+sub 215701744, sub's channel 4, chip 0, is not serviced in channel 4, chip 1, so change chip or change sub??, we choose cherish the 
+channel 4, chip 2, now is IDLE, sub judgement is 215701744
+sub 215701744, sub's channel 4, chip 0, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want to find existing read sub from channel 4, chip 3, die 0, now the existing register_ppn is -1, if ppn is -1, that means no useful
+we want to find existing read sub from channel 4, chip 3, die 0, now the existing register_ppn is 10092549, if ppn is -1, that means no useful
+SERVICES_2_r_data_trans, sub from find_read_sub_request,sub information: channel 4, chip 3, die 0, plane 1, ppn 10092549
+we want every sub can be polled if no sub can be serviced, now sub is 215699632
+channel 5, chip 1, now is IDLE, sub judgement is 215699632
+sub 215699632, sub's channel 5, chip 3, is not serviced in channel 5, chip 1, so change chip or change sub??, we choose cherish the 
+channel 5, chip 2, now is IDLE, sub judgement is 215699632
+sub 215699632, sub's channel 5, chip 3, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700784
+channel 5, chip 1, now is IDLE, sub judgement is 215700784
+sub 215700784, sub's channel 5, chip 0, is not serviced in channel 5, chip 1, so change chip or change sub??, we choose cherish the 
+channel 5, chip 2, now is IDLE, sub judgement is 215700784
+sub 215700784, sub's channel 5, chip 0, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701936
+channel 5, chip 1, now is IDLE, sub judgement is 215701936
+sub 215701936, sub's channel 5, chip 0, is not serviced in channel 5, chip 1, so change chip or change sub??, we choose cherish the 
+channel 5, chip 2, now is IDLE, sub judgement is 215701936
+sub 215701936, sub's channel 5, chip 0, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want to find existing read sub from channel 5, chip 3, die 0, now the existing register_ppn is -1, if ppn is -1, that means no useful
+we want to find existing read sub from channel 5, chip 3, die 0, now the existing register_ppn is 12189701, if ppn is -1, that means no useful
+SERVICES_2_r_data_trans, sub from find_read_sub_request,sub information: channel 5, chip 3, die 0, plane 1, ppn 12189701
+we want every sub can be polled if no sub can be serviced, now sub is 215699824
+channel 0, chip 1, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 1, so change chip or change sub??, we choose cherish the 
+channel 0, chip 2, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 2, so change chip or change sub??, we choose cherish the 
+channel 0, chip 3, now is IDLE, sub judgement is 215699824
+sub 215699824, sub's channel 0, chip 0, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700976
+channel 0, chip 1, now is IDLE, sub judgement is 215700976
+sub 215700976, sub's channel 0, chip 0, is not serviced in channel 0, chip 1, so change chip or change sub??, we choose cherish the 
+channel 0, chip 2, now is IDLE, sub judgement is 215700976
+sub 215700976, sub's channel 0, chip 0, is not serviced in channel 0, chip 2, so change chip or change sub??, we choose cherish the 
+channel 0, chip 3, now is IDLE, sub judgement is 215700976
+sub 215700976, sub's channel 0, chip 0, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want to find existing read sub from channel 0, chip 0, die 0, now the existing register_ppn is -1, if ppn is -1, that means no useful
+we want to find existing read sub from channel 0, chip 0, die 0, now the existing register_ppn is -1, if ppn is -1, that means no useful
+we want to find existing read sub from channel 0, chip 0, die 1, now the existing register_ppn is 262149, if ppn is -1, that means no useful
+SERVICES_2_r_data_trans, sub from find_read_sub_request,sub information: channel 0, chip 0, die 1, plane 0, ppn 262149
+we want every sub can be polled if no sub can be serviced, now sub is 215700016
+channel 1, chip 1, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 1, so change chip or change sub??, we choose cherish the 
+channel 1, chip 2, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 2, so change chip or change sub??, we choose cherish the 
+channel 1, chip 3, now is IDLE, sub judgement is 215700016
+sub 215700016, sub's channel 1, chip 0, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701168
+channel 1, chip 1, now is IDLE, sub judgement is 215701168
+sub 215701168, sub's channel 1, chip 0, is not serviced in channel 1, chip 1, so change chip or change sub??, we choose cherish the 
+channel 1, chip 2, now is IDLE, sub judgement is 215701168
+sub 215701168, sub's channel 1, chip 0, is not serviced in channel 1, chip 2, so change chip or change sub??, we choose cherish the 
+channel 1, chip 3, now is IDLE, sub judgement is 215701168
+sub 215701168, sub's channel 1, chip 0, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want to find existing read sub from channel 1, chip 0, die 0, now the existing register_ppn is -1, if ppn is -1, that means no useful
+we want to find existing read sub from channel 1, chip 0, die 0, now the existing register_ppn is -1, if ppn is -1, that means no useful
+we want to find existing read sub from channel 1, chip 0, die 1, now the existing register_ppn is 2359301, if ppn is -1, that means no useful
+SERVICES_2_r_data_trans, sub from find_read_sub_request,sub information: channel 1, chip 0, die 1, plane 0, ppn 2359301
+we want every sub can be polled if no sub can be serviced, now sub is 215699104
+channel 2, chip 1, now is IDLE, sub judgement is 215699104
+sub 215699104, sub's channel 2, chip 3, is not serviced in channel 2, chip 1, so change chip or change sub??, we choose cherish the 
+channel 2, chip 2, now is IDLE, sub judgement is 215699104
+sub 215699104, sub's channel 2, chip 3, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215700208
+channel 2, chip 1, now is IDLE, sub judgement is 215700208
+sub 215700208, sub's channel 2, chip 0, is not serviced in channel 2, chip 1, so change chip or change sub??, we choose cherish the 
+channel 2, chip 2, now is IDLE, sub judgement is 215700208
+sub 215700208, sub's channel 2, chip 0, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215701360
+channel 2, chip 1, now is IDLE, sub judgement is 215701360
+sub 215701360, sub's channel 2, chip 0, is not serviced in channel 2, chip 1, so change chip or change sub??, we choose cherish the 
+channel 2, chip 2, now is IDLE, sub judgement is 215701360
+sub 215701360, sub's channel 2, chip 0, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+finish services_2_r_wait, flag is 0, flag_gc is 0
+we want to find existing read sub from channel 2, chip 3, die 0, now the existing register_ppn is -1, if ppn is -1, that means no useful
+we want to find existing read sub from channel 2, chip 3, die 0, now the existing register_ppn is 5898245, if ppn is -1, that means no useful
+SERVICES_2_r_data_trans, sub from find_read_sub_request,sub information: channel 2, chip 3, die 0, plane 1, ppn 5898245
+normal one step alternately go ahead with read and write, but not certainly go ahead
+now channel 0, chip is 0,  head address 215699824, tail address 215700976, moved sub is 215699824
+normal one step alternately go ahead with read and write, but not certainly go ahead
+now channel 1, chip is 0,  head address 215700016, tail address 215701168, moved sub is 215700016
+normal one step alternately go ahead with read and write, but not certainly go ahead
+now channel 2, chip is 3,  head address 215699104, tail address 215701360, moved sub is 215699104
+normal one step alternately go ahead with read and write, but not certainly go ahead
+now channel 3, chip is 3,  head address 215699248, tail address 215701552, moved sub is 215699248
+normal one step alternately go ahead with read and write, but not certainly go ahead
+now channel 4, chip is 3,  head address 215699440, tail address 215701744, moved sub is 215699440
+normal one step alternately go ahead with read and write, but not certainly go ahead
+now channel 5, chip is 3,  head address 215699632, tail address 215701936, moved sub is 215699632
+finish services_2_r_wait, flag is 0, flag_gc is 0
+finish services_2_r_wait, flag is 0, flag_gc is 0
+finish services_2_r_wait, flag is 0, flag_gc is 0
+finish services_2_r_wait, flag is 0, flag_gc is 0
+finish services_2_r_wait, flag is 0, flag_gc is 0
+finish services_2_r_wait, flag is 0, flag_gc is 0
+only gc processing can happen
+we want every sub can be polled if no sub can be serviced, now sub is 215703216
+channel 3, chip 1, now is IDLE, sub judgement is 215703216
+now, here will do execute new read subrequest, then over the chip loop here.is 215703216, channel 3, chip 1 , chip token is 1
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 3, chip 1, die 1, plane 0, ppn 7077893, sub->current_time 1804314954996, sub->next_time 1804314955171, ssd->current_time 1804314954996, ssd->current_state 201, ssd->next_state 202, chip 1  next_predict_time 1804314955171, sub->ppn = ssd.add_reg_ppn is 7077893  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702256
+channel 4, chip 1, now is IDLE, sub judgement is 215702256
+sub 215702256, sub's channel 4, chip 0, is not serviced in channel 4, chip 1, so change chip or change sub??, we choose cherish the 
+channel 4, chip 2, now is IDLE, sub judgement is 215702256
+sub 215702256, sub's channel 4, chip 0, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+channel 4, chip 3, now is IDLE, sub judgement is 215702256
+sub 215702256, sub's channel 4, chip 0, is not serviced in channel 4, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703408
+channel 4, chip 1, now is IDLE, sub judgement is 215703408
+now, here will do execute new read subrequest, then over the chip loop here.is 215703408, channel 4, chip 1 , chip token is 1
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 4, chip 1, die 1, plane 0, ppn 9175045, sub->current_time 1804314954996, sub->next_time 1804314955171, ssd->current_time 1804314954996, ssd->current_state 201, ssd->next_state 202, chip 1  next_predict_time 1804314955171, sub->ppn = ssd.add_reg_ppn is 9175045  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702448
+channel 5, chip 1, now is IDLE, sub judgement is 215702448
+sub 215702448, sub's channel 5, chip 0, is not serviced in channel 5, chip 1, so change chip or change sub??, we choose cherish the 
+channel 5, chip 2, now is IDLE, sub judgement is 215702448
+sub 215702448, sub's channel 5, chip 0, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+channel 5, chip 3, now is IDLE, sub judgement is 215702448
+sub 215702448, sub's channel 5, chip 0, is not serviced in channel 5, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703600
+channel 5, chip 1, now is IDLE, sub judgement is 215703600
+now, here will do execute new read subrequest, then over the chip loop here.is 215703600, channel 5, chip 1 , chip token is 1
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 5, chip 1, die 1, plane 0, ppn 11272197, sub->current_time 1804314954996, sub->next_time 1804314955171, ssd->current_time 1804314954996, ssd->current_state 201, ssd->next_state 202, chip 1  next_predict_time 1804314955171, sub->ppn = ssd.add_reg_ppn is 11272197  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702640
+channel 0, chip 1, now is IDLE, sub judgement is 215702640
+now, here will do execute new read subrequest, then over the chip loop here.is 215702640, channel 0, chip 1 , chip token is 1
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 0, chip 1, die 1, plane 0, ppn 786437, sub->current_time 1804314954996, sub->next_time 1804314955171, ssd->current_time 1804314954996, ssd->current_state 201, ssd->next_state 202, chip 1  next_predict_time 1804314955171, sub->ppn = ssd.add_reg_ppn is 786437  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702832
+channel 1, chip 1, now is IDLE, sub judgement is 215702832
+now, here will do execute new read subrequest, then over the chip loop here.is 215702832, channel 1, chip 1 , chip token is 1
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 1, chip 1, die 1, plane 0, ppn 2883589, sub->current_time 1804314954996, sub->next_time 1804314955171, ssd->current_time 1804314954996, ssd->current_state 201, ssd->next_state 202, chip 1  next_predict_time 1804314955171, sub->ppn = ssd.add_reg_ppn is 2883589  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215703024
+channel 2, chip 1, now is IDLE, sub judgement is 215703024
+now, here will do execute new read subrequest, then over the chip loop here.is 215703024, channel 2, chip 1 , chip token is 1
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 2, chip 1, die 1, plane 0, ppn 4980741, sub->current_time 1804314954996, sub->next_time 1804314955171, ssd->current_time 1804314954996, ssd->current_state 201, ssd->next_state 202, chip 1  next_predict_time 1804314955171, sub->ppn = ssd.add_reg_ppn is 4980741  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215703216
+channel 3, chip 2, now is IDLE, sub judgement is 215703216
+sub 215703216, sub's channel 3, chip 1, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+channel 3, chip 3, now is IDLE, sub judgement is 215703216
+sub 215703216, sub's channel 3, chip 1, is not serviced in channel 3, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704368
+channel 3, chip 2, now is IDLE, sub judgement is 215704368
+sub 215704368, sub's channel 3, chip 1, is not serviced in channel 3, chip 2, so change chip or change sub??, we choose cherish the 
+channel 3, chip 3, now is IDLE, sub judgement is 215704368
+sub 215704368, sub's channel 3, chip 1, is not serviced in channel 3, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705520
+channel 3, chip 2, now is IDLE, sub judgement is 215705520
+now, here will do execute new read subrequest, then over the chip loop here.is 215705520, channel 3, chip 2 , chip token is 2
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 3, chip 2, die 1, plane 0, ppn 7602181, sub->current_time 1804314955171, sub->next_time 1804314955346, ssd->current_time 1804314955171, ssd->current_state 201, ssd->next_state 202, chip 2  next_predict_time 1804314955346, sub->ppn = ssd.add_reg_ppn is 7602181  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702256
+channel 4, chip 2, now is IDLE, sub judgement is 215702256
+sub 215702256, sub's channel 4, chip 0, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+channel 4, chip 3, now is IDLE, sub judgement is 215702256
+sub 215702256, sub's channel 4, chip 0, is not serviced in channel 4, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703408
+channel 4, chip 2, now is IDLE, sub judgement is 215703408
+sub 215703408, sub's channel 4, chip 1, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+channel 4, chip 3, now is IDLE, sub judgement is 215703408
+sub 215703408, sub's channel 4, chip 1, is not serviced in channel 4, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704560
+channel 4, chip 2, now is IDLE, sub judgement is 215704560
+sub 215704560, sub's channel 4, chip 1, is not serviced in channel 4, chip 2, so change chip or change sub??, we choose cherish the 
+channel 4, chip 3, now is IDLE, sub judgement is 215704560
+sub 215704560, sub's channel 4, chip 1, is not serviced in channel 4, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705712
+channel 4, chip 2, now is IDLE, sub judgement is 215705712
+now, here will do execute new read subrequest, then over the chip loop here.is 215705712, channel 4, chip 2 , chip token is 2
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 4, chip 2, die 1, plane 0, ppn 9699333, sub->current_time 1804314955171, sub->next_time 1804314955346, ssd->current_time 1804314955171, ssd->current_state 201, ssd->next_state 202, chip 2  next_predict_time 1804314955346, sub->ppn = ssd.add_reg_ppn is 9699333  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702448
+channel 5, chip 2, now is IDLE, sub judgement is 215702448
+sub 215702448, sub's channel 5, chip 0, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+channel 5, chip 3, now is IDLE, sub judgement is 215702448
+sub 215702448, sub's channel 5, chip 0, is not serviced in channel 5, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703600
+channel 5, chip 2, now is IDLE, sub judgement is 215703600
+sub 215703600, sub's channel 5, chip 1, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+channel 5, chip 3, now is IDLE, sub judgement is 215703600
+sub 215703600, sub's channel 5, chip 1, is not serviced in channel 5, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704752
+channel 5, chip 2, now is IDLE, sub judgement is 215704752
+sub 215704752, sub's channel 5, chip 1, is not serviced in channel 5, chip 2, so change chip or change sub??, we choose cherish the 
+channel 5, chip 3, now is IDLE, sub judgement is 215704752
+sub 215704752, sub's channel 5, chip 1, is not serviced in channel 5, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705904
+channel 5, chip 2, now is IDLE, sub judgement is 215705904
+now, here will do execute new read subrequest, then over the chip loop here.is 215705904, channel 5, chip 2 , chip token is 2
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 5, chip 2, die 1, plane 0, ppn 11796485, sub->current_time 1804314955171, sub->next_time 1804314955346, ssd->current_time 1804314955171, ssd->current_state 201, ssd->next_state 202, chip 2  next_predict_time 1804314955346, sub->ppn = ssd.add_reg_ppn is 11796485  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702640
+channel 0, chip 2, now is IDLE, sub judgement is 215702640
+sub 215702640, sub's channel 0, chip 1, is not serviced in channel 0, chip 2, so change chip or change sub??, we choose cherish the 
+channel 0, chip 3, now is IDLE, sub judgement is 215702640
+sub 215702640, sub's channel 0, chip 1, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+channel 0, chip 0, now is IDLE, sub judgement is 215702640
+sub 215702640, sub's channel 0, chip 1, is not serviced in channel 0, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703792
+channel 0, chip 2, now is IDLE, sub judgement is 215703792
+sub 215703792, sub's channel 0, chip 1, is not serviced in channel 0, chip 2, so change chip or change sub??, we choose cherish the 
+channel 0, chip 3, now is IDLE, sub judgement is 215703792
+sub 215703792, sub's channel 0, chip 1, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+channel 0, chip 0, now is IDLE, sub judgement is 215703792
+sub 215703792, sub's channel 0, chip 1, is not serviced in channel 0, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704944
+channel 0, chip 2, now is IDLE, sub judgement is 215704944
+now, here will do execute new read subrequest, then over the chip loop here.is 215704944, channel 0, chip 2 , chip token is 2
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 0, chip 2, die 1, plane 0, ppn 1310725, sub->current_time 1804314955171, sub->next_time 1804314955346, ssd->current_time 1804314955171, ssd->current_state 201, ssd->next_state 202, chip 2  next_predict_time 1804314955346, sub->ppn = ssd.add_reg_ppn is 1310725  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702832
+channel 1, chip 2, now is IDLE, sub judgement is 215702832
+sub 215702832, sub's channel 1, chip 1, is not serviced in channel 1, chip 2, so change chip or change sub??, we choose cherish the 
+channel 1, chip 3, now is IDLE, sub judgement is 215702832
+sub 215702832, sub's channel 1, chip 1, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+channel 1, chip 0, now is IDLE, sub judgement is 215702832
+sub 215702832, sub's channel 1, chip 1, is not serviced in channel 1, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703984
+channel 1, chip 2, now is IDLE, sub judgement is 215703984
+sub 215703984, sub's channel 1, chip 1, is not serviced in channel 1, chip 2, so change chip or change sub??, we choose cherish the 
+channel 1, chip 3, now is IDLE, sub judgement is 215703984
+sub 215703984, sub's channel 1, chip 1, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+channel 1, chip 0, now is IDLE, sub judgement is 215703984
+sub 215703984, sub's channel 1, chip 1, is not serviced in channel 1, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705136
+channel 1, chip 2, now is IDLE, sub judgement is 215705136
+now, here will do execute new read subrequest, then over the chip loop here.is 215705136, channel 1, chip 2 , chip token is 2
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 1, chip 2, die 1, plane 0, ppn 3407877, sub->current_time 1804314955171, sub->next_time 1804314955346, ssd->current_time 1804314955171, ssd->current_state 201, ssd->next_state 202, chip 2  next_predict_time 1804314955346, sub->ppn = ssd.add_reg_ppn is 3407877  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215703024
+channel 2, chip 2, now is IDLE, sub judgement is 215703024
+sub 215703024, sub's channel 2, chip 1, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+channel 2, chip 3, now is IDLE, sub judgement is 215703024
+sub 215703024, sub's channel 2, chip 1, is not serviced in channel 2, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704176
+channel 2, chip 2, now is IDLE, sub judgement is 215704176
+sub 215704176, sub's channel 2, chip 1, is not serviced in channel 2, chip 2, so change chip or change sub??, we choose cherish the 
+channel 2, chip 3, now is IDLE, sub judgement is 215704176
+sub 215704176, sub's channel 2, chip 1, is not serviced in channel 2, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705328
+channel 2, chip 2, now is IDLE, sub judgement is 215705328
+now, here will do execute new read subrequest, then over the chip loop here.is 215705328, channel 2, chip 2 , chip token is 2
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 2, chip 2, die 1, plane 0, ppn 5505029, sub->current_time 1804314955171, sub->next_time 1804314955346, ssd->current_time 1804314955171, ssd->current_state 201, ssd->next_state 202, chip 2  next_predict_time 1804314955346, sub->ppn = ssd.add_reg_ppn is 5505029  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215703216
+channel 3, chip 3, now is IDLE, sub judgement is 215703216
+sub 215703216, sub's channel 3, chip 1, is not serviced in channel 3, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704368
+channel 3, chip 3, now is IDLE, sub judgement is 215704368
+sub 215704368, sub's channel 3, chip 1, is not serviced in channel 3, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705520
+channel 3, chip 3, now is IDLE, sub judgement is 215705520
+sub 215705520, sub's channel 3, chip 2, is not serviced in channel 3, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215706672
+channel 3, chip 3, now is IDLE, sub judgement is 215706672
+sub 215706672, sub's channel 3, chip 2, is not serviced in channel 3, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215707824
+channel 3, chip 3, now is IDLE, sub judgement is 215707824
+now, here will do execute new read subrequest, then over the chip loop here.is 215707824, channel 3, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 3, chip 3, die 1, plane 0, ppn 8126469, sub->current_time 1804314955346, sub->next_time 1804314955521, ssd->current_time 1804314955346, ssd->current_state 201, ssd->next_state 202, chip 3  next_predict_time 1804314955521, sub->ppn = ssd.add_reg_ppn is 8126469  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702256
+channel 4, chip 3, now is IDLE, sub judgement is 215702256
+sub 215702256, sub's channel 4, chip 0, is not serviced in channel 4, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703408
+channel 4, chip 3, now is IDLE, sub judgement is 215703408
+sub 215703408, sub's channel 4, chip 1, is not serviced in channel 4, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704560
+channel 4, chip 3, now is IDLE, sub judgement is 215704560
+sub 215704560, sub's channel 4, chip 1, is not serviced in channel 4, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705712
+channel 4, chip 3, now is IDLE, sub judgement is 215705712
+sub 215705712, sub's channel 4, chip 2, is not serviced in channel 4, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215706864
+channel 4, chip 3, now is IDLE, sub judgement is 215706864
+sub 215706864, sub's channel 4, chip 2, is not serviced in channel 4, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215708016
+channel 4, chip 3, now is IDLE, sub judgement is 215708016
+now, here will do execute new read subrequest, then over the chip loop here.is 215708016, channel 4, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 4, chip 3, die 1, plane 0, ppn 10223621, sub->current_time 1804314955346, sub->next_time 1804314955521, ssd->current_time 1804314955346, ssd->current_state 201, ssd->next_state 202, chip 3  next_predict_time 1804314955521, sub->ppn = ssd.add_reg_ppn is 10223621  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702448
+channel 5, chip 3, now is IDLE, sub judgement is 215702448
+sub 215702448, sub's channel 5, chip 0, is not serviced in channel 5, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703600
+channel 5, chip 3, now is IDLE, sub judgement is 215703600
+sub 215703600, sub's channel 5, chip 1, is not serviced in channel 5, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704752
+channel 5, chip 3, now is IDLE, sub judgement is 215704752
+sub 215704752, sub's channel 5, chip 1, is not serviced in channel 5, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705904
+channel 5, chip 3, now is IDLE, sub judgement is 215705904
+sub 215705904, sub's channel 5, chip 2, is not serviced in channel 5, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215707056
+channel 5, chip 3, now is IDLE, sub judgement is 215707056
+sub 215707056, sub's channel 5, chip 2, is not serviced in channel 5, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215708208
+channel 5, chip 3, now is IDLE, sub judgement is 215708208
+now, here will do execute new read subrequest, then over the chip loop here.is 215708208, channel 5, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 5, chip 3, die 1, plane 0, ppn 12320773, sub->current_time 1804314955346, sub->next_time 1804314955521, ssd->current_time 1804314955346, ssd->current_state 201, ssd->next_state 202, chip 3  next_predict_time 1804314955521, sub->ppn = ssd.add_reg_ppn is 12320773  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702640
+channel 0, chip 3, now is IDLE, sub judgement is 215702640
+sub 215702640, sub's channel 0, chip 1, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+channel 0, chip 0, now is IDLE, sub judgement is 215702640
+sub 215702640, sub's channel 0, chip 1, is not serviced in channel 0, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703792
+channel 0, chip 3, now is IDLE, sub judgement is 215703792
+sub 215703792, sub's channel 0, chip 1, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+channel 0, chip 0, now is IDLE, sub judgement is 215703792
+sub 215703792, sub's channel 0, chip 1, is not serviced in channel 0, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704944
+channel 0, chip 3, now is IDLE, sub judgement is 215704944
+sub 215704944, sub's channel 0, chip 2, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+channel 0, chip 0, now is IDLE, sub judgement is 215704944
+sub 215704944, sub's channel 0, chip 2, is not serviced in channel 0, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215706096
+channel 0, chip 3, now is IDLE, sub judgement is 215706096
+sub 215706096, sub's channel 0, chip 2, is not serviced in channel 0, chip 3, so change chip or change sub??, we choose cherish the 
+channel 0, chip 0, now is IDLE, sub judgement is 215706096
+sub 215706096, sub's channel 0, chip 2, is not serviced in channel 0, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215707248
+channel 0, chip 3, now is IDLE, sub judgement is 215707248
+now, here will do execute new read subrequest, then over the chip loop here.is 215707248, channel 0, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 0, chip 3, die 1, plane 0, ppn 1835013, sub->current_time 1804314955346, sub->next_time 1804314955521, ssd->current_time 1804314955346, ssd->current_state 201, ssd->next_state 202, chip 3  next_predict_time 1804314955521, sub->ppn = ssd.add_reg_ppn is 1835013  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215702832
+channel 1, chip 3, now is IDLE, sub judgement is 215702832
+sub 215702832, sub's channel 1, chip 1, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+channel 1, chip 0, now is IDLE, sub judgement is 215702832
+sub 215702832, sub's channel 1, chip 1, is not serviced in channel 1, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215703984
+channel 1, chip 3, now is IDLE, sub judgement is 215703984
+sub 215703984, sub's channel 1, chip 1, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+channel 1, chip 0, now is IDLE, sub judgement is 215703984
+sub 215703984, sub's channel 1, chip 1, is not serviced in channel 1, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705136
+channel 1, chip 3, now is IDLE, sub judgement is 215705136
+sub 215705136, sub's channel 1, chip 2, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+channel 1, chip 0, now is IDLE, sub judgement is 215705136
+sub 215705136, sub's channel 1, chip 2, is not serviced in channel 1, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215706288
+channel 1, chip 3, now is IDLE, sub judgement is 215706288
+sub 215706288, sub's channel 1, chip 2, is not serviced in channel 1, chip 3, so change chip or change sub??, we choose cherish the 
+channel 1, chip 0, now is IDLE, sub judgement is 215706288
+sub 215706288, sub's channel 1, chip 2, is not serviced in channel 1, chip 0, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215707440
+channel 1, chip 3, now is IDLE, sub judgement is 215707440
+now, here will do execute new read subrequest, then over the chip loop here.is 215707440, channel 1, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 1, chip 3, die 1, plane 0, ppn 3932165, sub->current_time 1804314955346, sub->next_time 1804314955521, ssd->current_time 1804314955346, ssd->current_state 201, ssd->next_state 202, chip 3  next_predict_time 1804314955521, sub->ppn = ssd.add_reg_ppn is 3932165  
+here go out of r_wait funciton
+finish services_2_r_wait, flag is 1, flag_gc is 0
+we want every sub can be polled if no sub can be serviced, now sub is 215703024
+channel 2, chip 3, now is IDLE, sub judgement is 215703024
+sub 215703024, sub's channel 2, chip 1, is not serviced in channel 2, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215704176
+channel 2, chip 3, now is IDLE, sub judgement is 215704176
+sub 215704176, sub's channel 2, chip 1, is not serviced in channel 2, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215705328
+channel 2, chip 3, now is IDLE, sub judgement is 215705328
+sub 215705328, sub's channel 2, chip 2, is not serviced in channel 2, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215706480
+channel 2, chip 3, now is IDLE, sub judgement is 215706480
+sub 215706480, sub's channel 2, chip 2, is not serviced in channel 2, chip 3, so change chip or change sub??, we choose cherish the 
+we want every sub can be polled if no sub can be serviced, now sub is 215707632
+channel 2, chip 3, now is IDLE, sub judgement is 215707632
+now, here will do execute new read subrequest, then over the chip loop here.is 215707632, channel 2, chip 3 , chip token is 3
+finish go_one)step SR_R_C_A_TRANSFER: sub information: channel 2, chip 3, die 1, plane 0, ppn 6029317, sub->current_time 1804314955346, sub->next_time 1

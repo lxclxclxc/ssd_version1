@@ -1,0 +1,326 @@
+
+---------------------------statistic data---------------------------
+gc suspend times:           774
+write suspend times:         10899
+min lsn:             0
+max lsn:       -199820
+read count:        838320
+program count:       1149690                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:         11531
+erase count:           876
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave write count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:       1054606
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:         66633
+write request count:         33366
+read request average size:     46.241528
+write request average size:     37.318481
+read request average response time: 1173495
+write request average response time: 2340920
+buffer read hits:           635
+buffer read miss:           694
+buffer write hits:        127267
+buffer write miss:        665437
+erase:           876
+
+length = 10, 0.02 old. 123000.   channel 8 * 4 chips
+
+
+
+
+
+---------------------------statistic data---------------------------
+gc suspend times:           694
+write suspend times:          9205
+min lsn:             0
+max lsn:       -199820
+read count:        837733
+program count:       1156012                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:         11248
+erase count:           949
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave write count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:       1068659
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:         66633
+write request count:         33366
+read request average size:     46.241631
+write request average size:     37.316742
+read request average response time: 649036
+write request average response time: 1463991
+buffer read hits:           623
+buffer read miss:           685
+buffer write hits:        127337
+buffer write miss:        676171
+erase:           949
+original total pages is     100663296
+
+length = 10, 0.00087%.   channel 12 * 4 chips
+
+
+
+
+
+
+
+---------------------------statistic data---------------------------
+gc suspend times:          1188
+write suspend times:          9438
+min lsn:             0
+max lsn:       -199820
+read count:        837669
+program count:       1156012                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:         11248
+erase count:           949
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave write count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:       1068659
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:         66633
+write request count:         33366
+read request average size:     46.243233
+write request average size:     37.318642
+read request average response time: 159882
+write request average response time: 1488031
+buffer read hits:           623
+buffer read miss:           685
+buffer write hits:        127337
+buffer write miss:        676171
+erase:           949
+
+length = 1000, 0.00087%    channel 12 * 4 chips
+
+
+
+---------------------------statistic data---------------------------
+gc suspend times:         30747
+write suspend times:          7699
+min lsn:             0
+max lsn:       -199820
+read count:        837557
+program count:       2692592                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:         11267
+erase count:         27179
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave write count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:       2605236
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:         66634
+write request count:         33366
+read request average size:     46.242409
+write request average size:     37.331123
+read request average response time: 197689
+write request average response time: 189732630
+buffer read hits:           623
+buffer read miss:           682
+buffer write hits:        127235
+buffer write miss:        657945
+erase:         27179
+original total pages is     100663296
+only pre_processed pages number is      90596960
+
+
+
+length = 1000, 0.0272%    channel 12 * 4 chips  123000.
+
+
+
+
+---------------------------statistic data---------------------------
+gc suspend times:         21471
+write suspend times:          8093
+min lsn:             0
+max lsn:       -199820
+read count:        838497
+program count:       2701994                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:         11248
+erase count:         27335
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave write count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:       2614638
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:         66634
+write request count:         33366
+read request average size:     46.241028
+write request average size:     37.317688
+read request average response time: 299116693
+write request average response time: 207008083
+buffer read hits:           623
+buffer read miss:           685
+buffer write hits:        127337
+buffer write miss:        676171
+erase:         27335
+original total pages is     100663296
+
+
+
+length = 10, 0.0272%    channel 12 * 4 chips  123000.
+
+
+
+
+
+
+---------------------------statistic data---------------------------
+gc suspend times:          1389
+100267 write suspend times:         10913
+100268 min lsn:             0
+100269 max lsn:       -199820
+100270 read count:        838183
+100271 program count:       1149690                        include the flash write count leaded by read requests
+100272 the read operation leaded by un-covered update count:         11531
+100273 erase count:           876
+100274 direct erase count:             0
+100275 copy back count:             0
+100276 multi-plane program count:             0
+100277 multi-plane read count:             0
+100278 interleave write count:             0
+100279 interleave read count:             0
+100280 interleave two plane and one program count:             0
+100281 interleave two plane count:             0
+100282 gc copy back count:             0
+100283 write flash count:       1054606
+100284 interleave erase count:             0
+100285 multiple plane erase count:             0
+100286 interleave multiple plane erase count:             0
+100287 read request count:         66633
+100288 write request count:         33366
+100289 read request average size:     46.243336
+100290 write request average size:     37.332916
+100291 read request average response time: 214416
+100292 write request average response time: 2392971
+100293 buffer read hits:           635
+100294 buffer read miss:           694
+100295 buffer write hits:        127267
+100296 buffer write miss:        665437
+
+length =1000, 0.02 old.
+
+
+
+
+
+---------------------------statistic data---------------------------
+gc suspend times:          3315
+write suspend times:         10929
+min lsn:             0
+max lsn:       -199820
+read count:        838174
+program count:       1199265                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:         11531
+erase count:          1910
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave write count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:       1104181
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:         66633
+write request count:         33366
+read request average size:     46.243275
+write request average size:     37.333450
+read request average response time: 217572
+write request average response time: 4764286
+buffer read hits:           635
+buffer read miss:           694
+buffer write hits:        127267
+buffer write miss:        665437
+
+
+
+length =1000, 0.003 old.    1910/ 
+
+
+
+
+---------------------------statistic data---------------------------
+gc suspend times:          1805
+write suspend times:         10853
+min lsn:             0
+max lsn:       -199820
+read count:        838440
+program count:       1199265                        include the flash write count leaded by read requests
+the read operation leaded by un-covered update count:         11531
+erase count:          1910
+direct erase count:             0
+copy back count:             0
+multi-plane program count:             0
+multi-plane read count:             0
+interleave write count:             0
+interleave read count:             0
+interleave two plane and one program count:             0
+interleave two plane count:             0
+gc copy back count:             0
+write flash count:       1104181
+interleave erase count:             0
+multiple plane erase count:             0
+interleave multiple plane erase count:             0
+read request count:         66633
+write request count:         33366
+read request average size:     46.241695
+write request average size:     37.318527
+read request average response time: 3411021
+write request average response time: 4606744
+buffer read hits:           635
+buffer read miss:           694
+buffer write hits:        127267
+buffer write miss:        665437
+erase:          1910
+
+length = 10, 0.03 old rate.
+
+
+
